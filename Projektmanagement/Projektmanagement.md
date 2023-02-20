@@ -7,13 +7,13 @@
 3. [PRINCE 2](#3-prince-2)
 4. [Gantt - Diagramm](#4-gantt---diagramm)
 5. [Netzplan](#5-netzplan)
-6. [Wasserfallmodell](#6-wasserfallmodell)
+6. [Wasserfallmodell](#6-wasserfallmodell) Peter fragen
 7. [Agile Modelle](#7-agile-modelle)
 8. [SCRUM](#8-scrum)
 
 ## 1.1 Grundlagen
 Lehrbuch Seite 17.
-Kapitel 2.1   
+Kapitel 2.1
 
 ### Projektmanagementsystem
 
@@ -35,15 +35,15 @@ Kapitel 2.1
 <summary>
 Neue Art des Projektmanagements:
 </summary>
-Agile  
-Manifest  
+Agile
+Manifest
 
 </details>
 
 ### Mangementbereiche
 
 Abkürzung | Management
--|- 
+-|-
 Q | <details><summary></summary>Qualitätsmangement</details>
 K | <details><summary></summary>Kommunktionsmanagement</details>
 R | <details><summary></summary>Risikomanagement</details>
@@ -68,12 +68,12 @@ Zusammenhang zwsichen wichtigen Kenngrößen des Projektmanagements:
 
 [zum Anfang](#1-projektmanagement)
 
-## 3. PRINCE 2 
+## 3. PRINCE 2
 
-Neben DIN/ISO --> international anerkannte Systeme wie 
+Neben DIN/ISO --> international anerkannte Systeme wie
 <details>
 <summary>PRINCE 2</summary>PRojects IN Controlled Environments</details>
- 
+
 - Vorteil: bereits praktische erprobt
 
 [zum Anfang](#1-projektmanagement)
@@ -81,22 +81,22 @@ Neben DIN/ISO --> international anerkannte Systeme wie
 ## 4. Gantt - Diagramm
 
 - Balkendiagramm
-- Visualisierung von Projektzeitplan 
-- Abhängigkeiten zwischen Aufgaben 
+- Visualisierung von Projektzeitplan
+- Abhängigkeiten zwischen Aufgaben
 
 
 [zum Anfang](#1-projektmanagement)
 
 ## 5. Netzplan
 
-Arbeitspaketsname | &nbsp; |&nbsp; | &nbsp;
+Arbeitspaketsname |  | | |
 -|-|-|-
-&nbsp; | FAZ | D | FEZ  
-&nbsp; | SAZ | P | SEZ  
+| | FAZ | D | FEZ
+| | SAZ | P | SEZ
 
 __FAZ__: Frühester Anfangszeitpunkt
 __D__: Dauer
-__FEZ__: Frühster Endzeitpunkt  
+__FEZ__: Frühster Endzeitpunkt
 __SAZ__: Spätester Anfangszeitpunkt
 __P__: Puffer
 __SEZ__: spätester Endzeitpunkt
@@ -105,7 +105,8 @@ __SEZ__: spätester Endzeitpunkt
 
 ## 6. Wasserfallmodell
 
-todo 
+todo
+Peter fragen
 
 [zum Anfang](#1-projektmanagement)
 
@@ -135,7 +136,7 @@ __Crystal Methods__: Eine Familie von agilen Methoden, die auf den Bedürfnissen
 ### Beispiel
 
 Abkürzung | Management
--|- 
+-|-
 __Planung__ | <details><summary></summary>Das Team besteht aus einem Produktbesitzer, drei Entwicklern und einem Scrum-Master. Das Team erstellt eine Liste von Anforderungen für die zu entwickelnde Software und erstellt ein Product Backlog</details>
 __Sprint__ | <details><summary></summary> Das Team wählt einen Zeitraum von zwei Wochen für den ersten Sprint aus. Es wählt die wichtigsten Anforderungen aus dem Product Backlog aus und beginnt mit der Entwicklung.</details>
 __Daily Scrum__ | <details><summary></summary> Jeden Tag treffen sich das Team und bespricht den Fortschritt des aktuellen Sprints. Die Entwickler teilen ihre Arbeitsfortschritte und Probleme mit, und das Team diskutiert Lösungen.</details>
