@@ -2,9 +2,9 @@
 
 ## Inhaltsangabe
 
-1. [Projektmangement](./Projektmanagement/Projektmanagement.md)
-2. [Qualitätsmangement](./Qualit%C3%A4tsmangement/Qualit%C3%A4tsmangement.md)
-3. [Datenschutz](./Datenschutz/Datenschutz.md)
+1. [Projektmangement](./01_Projektmanagement/Projektmanagement.md)
+2. [Qualitätsmangement](./02_Qualit%C3%A4tsmangement/Qualit%C3%A4tsmangement.md)
+3. [Datenschutz](./03_Datenschutz/Datenschutz.md)
 4. [IT-Sicherheit](todo)
 5. [IT-Systeme](todo)
 6. [Software](todo)
