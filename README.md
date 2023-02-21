@@ -5,12 +5,13 @@
 1. [Projektmangement](./01_Projektmanagement/Projektmanagement.md)
 2. [Qualitätsmangement](./02_Qualit%C3%A4tsmangement/Qualit%C3%A4tsmangement.md)
 3. [Datenschutz](./03_Datenschutz/Datenschutz.md)
-4. [IT-Sicherheit](todo)
+4. [IT-Sicherheit](./04_IT-Sicherheit/IT-SIcherheit.md)
 5. [IT-Systeme](todo)
 6. [Software](todo)
 7. [Netzwerk](todo)
 8. [Arbeits-Geschäftsprozesse](todo)
 9. [Abkürzungen](./Abkuerzungen/Abkuerzungen.md)
+10. [Rechnungen](./10_Rechnungen/Rechnungen.md)
 
 
 ---
@@ -50,3 +51,4 @@ NAT
 RAS
 Industrie 4.0
 Mibibyte, Meabyte umrechnung
+
