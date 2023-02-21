@@ -42,19 +42,23 @@ Manifest
 
 ### Mangementbereiche
 
-Abkürzung | Management
--|-
-Q | <details><summary></summary>Qualitätsmangement</details>
-K | <details><summary></summary>Kommunktionsmanagement</details>
-R | <details><summary></summary>Risikomanagement</details>
-I | <details><summary></summary>Integrationsmanagement</details>
-I u U | <details><summary></summary>Inhalts- und Umfangsmanagement</details>
-T | <details><summary></summary>Terminmanagement</details>
-K | <details><summary></summary>Kostenmanagement</details>
-P | <details><summary></summary>Personalmanagement</details>
-B | <details><summary></summary>Beschaffungsmanagement</details>
+Abkürzung | Eingabe | Lösung
+-|-|-
+Q |<input type="text"></input> |  <details><summary></summary>Qualitätsmangement</details>
+K |<input type="text"></input> |  <details><summary></summary>Kommunktionsmanagement</details>
+R |<input type="text"></input> |  <details><summary></summary>Risikomanagement</details>
+I |<input type="text"></input> |  <details><summary></summary>Integrationsmanagement</details>
+I u U |<input type="text"></input> |  <details><summary></summary>Inhalts- und Umfangsmanagement</details>
+T |<input type="text"></input> |  <details><summary></summary>Terminmanagement</details>
+K | <input type="text"></input> | <details><summary></summary>Kostenmanagement</details>
+P | <input type="text"></input> | <details><summary></summary>Personalmanagement</details>
+B | <input type="text"></input> | <details><summary></summary>Beschaffungsmanagement</details>
+
+
 
 [zum Anfang](#1-projektmanagement)
+
+---
 
 ## 2. Das magische Dreieck
 
@@ -68,6 +72,8 @@ Zusammenhang zwsichen wichtigen Kenngrößen des Projektmanagements:
 
 [zum Anfang](#1-projektmanagement)
 
+---
+
 ## 3. PRINCE 2
 
 Neben DIN/ISO --> international anerkannte Systeme wie
@@ -78,14 +84,26 @@ Neben DIN/ISO --> international anerkannte Systeme wie
 
 [zum Anfang](#1-projektmanagement)
 
+---
+
 ## 4. Gantt - Diagramm
 
 - Balkendiagramm
 - Visualisierung von Projektzeitplan
 - Abhängigkeiten zwischen Aufgaben
+- Darstellung von Meilensteinen und kritischem Weg
 
+<details>
+<summary>
+Beispiel:
+</summary>
+
+![Gantt Diagramm](./images/Gantt-Diagram.png)
+</details>
 
 [zum Anfang](#1-projektmanagement)
+
+---
 
 ## 5. Netzplan
 
@@ -96,7 +114,7 @@ Arbeitspaketsname |  | | |
 
 __FAZ__: Frühester Anfangszeitpunkt
 __D__: Dauer
-__FEZ__: Frühster Endzeitpunkt
+__FEZ__: Frühster Endzeitpunkt  
 __SAZ__: Spätester Anfangszeitpunkt
 __P__: Puffer
 __SEZ__: spätester Endzeitpunkt
@@ -135,14 +153,21 @@ __Crystal Methods__: Eine Familie von agilen Methoden, die auf den Bedürfnissen
 
 ### Beispiel
 
-Abkürzung | Management
--|-
-__Planung__ | <details><summary></summary>Das Team besteht aus einem Produktbesitzer, drei Entwicklern und einem Scrum-Master. Das Team erstellt eine Liste von Anforderungen für die zu entwickelnde Software und erstellt ein Product Backlog</details>
-__Sprint__ | <details><summary></summary> Das Team wählt einen Zeitraum von zwei Wochen für den ersten Sprint aus. Es wählt die wichtigsten Anforderungen aus dem Product Backlog aus und beginnt mit der Entwicklung.</details>
-__Daily Scrum__ | <details><summary></summary> Jeden Tag treffen sich das Team und bespricht den Fortschritt des aktuellen Sprints. Die Entwickler teilen ihre Arbeitsfortschritte und Probleme mit, und das Team diskutiert Lösungen.</details>
-__Sprint Review__ | <details><summary></summary>Am Ende des Sprints stellt das Team die entwickelten Funktionalitäten dem Produktbesitzer vor. Der Produktbesitzer gibt Feedback und bespricht eventuelle Änderungen im Product Backlog.</details>
-__Sprint Retrospective__ | <details><summary></summary>Das Team diskutiert, was während des Sprints gut lief und was verbessert werden kann. Es identifiziert Maßnahmen, die in zukünftigen Sprints umgesetzt werden können, um die Prozesse und Praktiken zu verbessern.</details>
-__Wiederholung__ | <details><summary></summary>Das Team wiederholt den Prozess mit einem neuen Sprint und führt kontinuierliche Verbesserungen durch.</details>
-__Scrum Schema__ | <details><summary></summary>![Scrum](./images/Scrum-Schema-Kopie.jpg)</details>
+Abkürzung | Eingabe Name | Lösung | Eingabe Beispiel | Lösungsbeispiel
+-|-|-|-|-
+P | <input type="text"> | <details><summary> </summary>Planung</details> |<input type="text"> | <details><summary></summary>Das Team besteht aus einem Produktbesitzer, drei Entwicklern und einem Scrum-Master. Das Team erstellt eine Liste von Anforderungen für die zu entwickelnde Software und erstellt ein Product Backlog</details>
+S | <input type="text"> | <details><summary> </summary>Sprint</details> | <input type="text"> |<details><summary></summary> Das Team wählt einen Zeitraum von zwei Wochen für den ersten Sprint aus. Es wählt die wichtigsten Anforderungen aus dem Product Backlog aus und beginnt mit der Entwicklung.</details>
+D S | <input type="text"> | <details><summary> </summary>Daily Scrum</details>|<input type="text"> | <details><summary></summary> Jeden Tag treffen sich das Team und bespricht den Fortschritt des aktuellen Sprints. Die Entwickler teilen ihre Arbeitsfortschritte und Probleme mit, und das Team diskutiert Lösungen.</details>
+S R | <input type="text"> | <details><summary> </summary>Sprint Review</details>| <input type="text"> |<details><summary></summary>Am Ende des Sprints stellt das Team die entwickelten Funktionalitäten dem Produktbesitzer vor. Der Produktbesitzer gibt Feedback und bespricht eventuelle Änderungen im Product Backlog.</details>
+S R | <input type="text"> | <details><summary> </summary>Sprint Retrospective</details>|<input type="text"> | <details><summary></summary>Das Team diskutiert, was während des Sprints gut lief und was verbessert werden kann. Es identifiziert Maßnahmen, die in zukünftigen Sprints umgesetzt werden können, um die Prozesse und Praktiken zu verbessern.</details>
+W | <input type="text"> | <details><summary> </summary>Wiederholung</details>| <input type="text"> |<details><summary></summary>Das Team wiederholt den Prozess mit einem neuen Sprint und führt kontinuierliche Verbesserungen durch.</details>
+
+<details><summary>Scrum Schema</summary>
+
+![Scrum](./images/Scrum-Schema-Kopie.jpg)</details>
+
+
+
+
 
 [zum Anfang](#1-projektmanagement)

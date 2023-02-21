@@ -16,17 +16,17 @@
 - zur Qualitätssicherung wird Qualitätsmanagementsystem etabliert
 - wird durch __DIN EN ISO 9000__ geregelt
 
-Die Norm definiert 7 Grundsätze
+### Die Norm definiert 7 __Managementgrundsätze__
 
-Abkürzung | Management
--|-
-K | <details><summary></summary>Kundenorientiert</details>
-V d F | <details><summary></summary>Verntwortlichkeit der Führung</details>
-E d b P | <details><summary></summary>Einbeziehung der beteiligten Personen</details>
-P A | <details><summary></summary>Prozessorientierter Ansatz</details>
-K V | <details><summary></summary>kontinuierliche Verbesserung</details>
-S E | <details><summary></summary>Sachbezogener Entscheidungsfindungsansatz</details>
-L z g N | <details><summary></summary>Lieferantenbeziehungen zum gegenseitigen Nutzen</details>
+ Abkürzung | Eingabe | Lösung
+-|-|-
+K | <input type="text"> | <details><summary></summary>Kundenorientiert</details>
+V d F | <input type="text"> | <details><summary></summary>Verntwortlichkeit der Führung</details>
+E d b P | <input type="text"> | <details><summary></summary>Einbeziehung der beteiligten Personen</details>
+P A | <input type="text"> | <details><summary></summary>Prozessorientierter Ansatz</details>
+K V | <input type="text"> | <details><summary></summary>kontinuierliche Verbesserung</details>
+S E | <input type="text"> | <details><summary></summary>Sachbezogener Entscheidungsfindungsansatz</details>
+L z g N | <input type="text"> | <details><summary></summary>Lieferantenbeziehungen zum gegenseitigen Nutzen</details>
 
 
 <br>
@@ -55,16 +55,20 @@ Diese Normen sind international anerkannt und werden von Unternehmen auf der gan
 - __ISO 9001__:2015 Qualitätsmanagementsysteme - Anforderungen
 - __ISO 9004__:2018 Qualitätsmanagementsysteme - Leitfaden zur Verbesserung der Leistung
 
-    - <details><summary><b>Begriffe und Definitionenn</b></summary>in Relevanz mit QMS</details>
-    - <details><summary><b>Normative Verweisungen</b></summary>verweist auf andere Normen, Anwendung in Bezug auf QMS</details>
-    - <details><summary><b>Führung</b></summary>oberste Führungsebene ist verantwortlich QMS zu implementieren und aufrechtzuerhalten</details>
-    - <details><summary><b>Planung</b></summary>Identifizierung von Prozessen für Lieferung von Produkten und Dienstleistungen</details>
-    - <details><summary><b>Unterstützung</b></summary>Anforderungen an Ressourcen, Kompetenzen, Infrastruktur und Arbeitsumgebung</details>
-    - <details><summary><b>Kontext der Organisation</b></summary>Identifizierung von internen und externen Einflussfaktoren</details>
-    - <details><summary><b>Betrieb</b></summary>Durchführung der Prozesse (Überwachung, Messung und Analyse der Prozessleistung)</details>
-    - <details><summary><b>Bewertung</b></summary>Bewertung der Wirksamkeit, Kundenzufriedenheit, Prozessleistung</details>
-    - <details><summary><b>Verbesserung</b></summary>Identifizierung und Durchführung von Maßnahmen zur Korrektur und Vorbeugung von Abweichungen</details>
-    - <details><summary><b>Anwendungsbereich</b></summary>welche Anforderungen muss Organisation</details>
+### wichtigeste Inhaltspunkte
+
+Abkürzung | Eingabe - Inhaltspunkt| Lösung | Eingabe - Inhalt | Lösung
+-|-|-|-|-
+B u D | <input type="text"> | <details><summary></summary>Begriffe und Definitionenn  </details>|<input type="text"> | <details><summary></summary>Relevante Begriffe für QMS</details>
+N V | <input type="text"> | <details><summary></summary>Normative Verweisungen </details>|<input type="text"> |<details> <summary> </summary>Verweis auf andere Normen, Anwendung in Bezug auf QMS</details>
+F | <input type="text"> | <details><summary></summary>Führung</details>|<input type="text"> | <details><summary></summary>oberste Führungsebene  ist verantwortlich QMS zu implementieren und aufrechtzuerhalten</details>
+P| <input type="text"> | <details><summary></summary>Planung</details>|<input type="text"> | <details><summary></summary>Identifizierung von Prozessen für Lieferung von Produkten und Dienstleistungen</details>
+U| <input type="text"> | <details><summary></summary>Unterstützung</details>|<input type="text"> | <details><summary></summary>Anforderungen an  Ressourcen, Kompetenzen, Infrastruktur und Arbeitsumgebung</details>
+K d O| <input type="text"> | <details><summary></summary>Kontext der Organisation</details>|<input type="text"> | <details><summary></summary>Identifizierung von internen und externen Einflussfaktoren</details>
+B| <input type="text"> | <details><summary></summary>Betrieb</details>|<input type="text"> | <details><summary></summary>Durchführung der  Prozesse (Überwachung, Messung und Analyse der Prozessleistung)</details>
+B| <input type="text"> | <details><summary></summary>Bewertung</details>|<input type="text"> | <details><summary></summary>Bewertung der  Wirksamkeit, Kundenzufriedenheit, Prozessleistung</details>
+V| <input type="text"> | <details><summary></summary>Verbesserung</details>|<input type="text"> | <details><summary></summary>Identifizierung und Durchführung von Maßnahmen zur Korrektur und Vorbeugung von Abweichungen</details>
+A| <input type="text"> | <details><summary></summary>Anwendungsbereich</details>|<input type="text"> | <details><summary></summary>welche Anforderungen muss Organisation erfüllen um QMS effektiv einzuführen</details>
 
 [zum Anfang](#qualitätsmanagement)
 

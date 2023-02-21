@@ -68,16 +68,15 @@ todo
 
 ## 4. Standard Datenschutzmodell
 
-Abkürzung | Eingabe | Lösung
--|-|-
-V | <input type="text"></input> | <details><summary></summary>Verfügbarkeit</details>
-V | <input type="text"></input> | <details><summary></summary>Verfügbarkeit</details>
-I | <input type="text"></input> | <details><summary></summary>Integrität</details>
-D | <input type="text"></input> | <details><summary></summary>Datenminimierung</details>
-N | <input type="text"></input> | <details><summary></summary>Nichtverkettung</details>
-T | <input type="text"></input> | <details><summary></summary>Tranparenz</details>
-I | <input type="text"></input> | <details><summary></summary>Intervenierbarkeit</details>
-
+Abkürzung | Begriff | Lösung | Definition | Lösung
+-|-|-|-|-
+V | <input type="text"></input> | <details><summary></summary>Vertraulichkleit</details>| <input type="text"></input> | <details><summary></summary>Vertraulichkeit bezieht sich auf die Eigenschaft, dass bestimmte Informationen nur von autorisierten Personen oder Systemen zugänglich gemacht werden können. Es geht darum, sicherzustellen, dass sensible Daten nicht in falsche Hände geraten.</details>
+V | <input type="text"></input> | <details><summary></summary>Verfügbarkeit</details>| <input type="text"></input> | <details><summary></summary>Verfügbarkeit bezieht sich auf die Eigenschaft, dass Daten oder Systeme jederzeit und ohne Einschränkungen zugänglich sind. Ein hoher Grad an Verfügbarkeit ist besonders wichtig, um Geschäftsprozesse oder kritische Infrastrukturen am Laufen zu halten.</details>
+I | <input type="text"></input> | <details><summary></summary>Integrität</details>| <input type="text"></input> | <details><summary></summary> Integrität bezieht sich auf die Eigenschaft, dass Daten oder Systeme vollständig, korrekt und unverändert sind. Es geht darum sicherzustellen, dass Daten nicht unbefugt geändert oder manipuliert werden.</details>
+D | <input type="text"></input> | <details><summary></summary>Datenminimierung</details>| <input type="text"></input> | <details><summary></summary>Datenminimierung bezieht sich darauf, dass nur diejenigen personenbezogenen Daten erhoben werden, die für den Zweck, für den sie verarbeitet werden sollen, auch wirklich erforderlich sind. Dies dient dem Schutz der Privatsphäre und minimiert das Risiko eines Datenmissbrauchs.</details>
+N | <input type="text"></input> | <details><summary></summary>Nichtverkettung</details>| <input type="text"></input> | <details><summary></summary> Nichtverkettung bedeutet, dass personenbezogene Daten nicht ohne Notwendigkeit miteinander verknüpft werden. Hierdurch wird die Privatsphäre geschützt und das Risiko eines Missbrauchs reduziert.</details>
+T | <input type="text"></input> | <details><summary></summary>Tranparenz</details>| <input type="text"></input> | <details><summary></summary>Transparenz bedeutet, dass alle Betroffenen darüber informiert werden, welche personenbezogenen Daten erhoben, gespeichert, verarbeitet oder weitergegeben werden. Es geht darum, die Rechte der Betroffenen zu stärken und das Vertrauen in die Datenverarbeitung zu fördern.</details>
+I | <input type="text"></input> | <details><summary></summary>Intervenierbarkeit</details>| <input type="text"></input> | <details><summary></summary> Intervenierbarkeit bezieht sich darauf, dass die Betroffenen die Möglichkeit haben, auf ihre personenbezogenen Daten zuzugreifen und gegebenenfalls eine Korrektur oder Löschung zu verlangen. Dies stärkt die Rechte der Betroffenen und fördert das Vertrauen in die Datenverarbeitung.</details>
 
 
 
@@ -89,7 +88,7 @@ I | <input type="text"></input> | <details><summary></summary>Intervenierbarkeit
 
 Umfasst mehrer Dutzend Normen
 Wichtige Beispiele:
-ISO | Eingabe | Inhalt
+ISO | Inhalt | Lösung
 -|-|-
 ISO/IEC 27001:2013 |<input tpye="text"> | <details><summary></summary>zentraler Standard für Informationssicherheitsmanagementsysteme (ISMS), Anforderungen  wie ein Unternehmen seine Informationssicherheitsrisiken identifizieren, bewerten, behandeln und überwachen kann
 ISO/IEC 27002:2013 |<input tpye="text"> | <details><summary></summary>Leitlinien für die Initiierung, Umsetzung, Überwachung und Verbesserung der Informationssicherheit, umfassende Übersicht über Informationssicherheit und Empfehlungen für Umgang mit Risiken und Bedrohungen
@@ -103,7 +102,7 @@ ISO/IEC 27018:2019 | <input tpye="text"> |<details><summary></summary>Schutz per
 
 ## 6. Angriffsmethoden
 
-Kategorie | Gefährdung | Eingabe | Lösung | Maßnahme gegen Gefährdung
+Kategorie | Gefährdung | Begriff / Ablauf | Lösung | Maßnahme gegen Gefährdung
 -|-|-|-|-
 Identitätsdiebstahl | Phishing |<input tpye="text"> |<details><summary></summary> Form des Social Engineering, gefälschte E-Mails, Nachrichten oder Websites erstellen, Opfer verleiten vertraulichen Informationen  preiszugeben | <input type="text">
 | | Vishing |<input tpye="text"> |<details><summary></summary> Art von Phishing-Angriff, gefälschte Anrufe tätigen oder Voicemail | <input type="text">

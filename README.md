@@ -21,7 +21,7 @@
 
 ### Lernfeld 3
 
-- [Abkürzungen](./Lernfeld_3/Abkuerzungen.md)
+- [Abkürzungen](./Abkuerzungen/Abkuerzungen.md)
 - [OSI - Schichtenmodel](./Lernfeld_3/OSI_Schichtenmodel.md)
 
 ## stuff to add
