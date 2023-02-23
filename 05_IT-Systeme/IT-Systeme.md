@@ -49,23 +49,24 @@ Platform as a Service: todo
 
 Bedingung | Symbol | A | B | Ergebnis
 -|-|-:|-:|-:
-Und | & | 0 | 0 | 0
+Und | & ,$\wedge$ | 0 | 0 | 0
 |||0|1|0
 |||1|0|0
 |||1|1|0
 ||
-Oder | $ \geq1 $ | 0 | 0 | 0
+Oder | $ \geq1 $, $\vee$| 0 | 0 | 0
 |||0|1|1
 |||1|0|1
 |||1|1|1
 ||
-Nicht | $ 1 $ | 1||0 
+Nicht | $ 1 $ , $\neg$ | 1||0 
 ||| 0||1
 ||
 Entweder Oder | $ =1 $ | 0 | 0 | 0
 |||0|1|1
 |||1|0|1
 |||1|1|0
+
 
 
 
