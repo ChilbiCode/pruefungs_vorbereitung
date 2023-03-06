@@ -113,3 +113,13 @@ Lösung:
 $$\frac{\frac{30 * 18}{2,54^2}*1*300Pixel*24Bit}{8*1024*1024}=21,56MiB$$
 
 --- 
+
+URI  
+IJA  
+PUA  
+EUIt  
+kWh
+
+MiB in MB  
+Bin in Dec  
+Up Down

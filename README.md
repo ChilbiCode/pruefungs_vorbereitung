@@ -32,23 +32,19 @@ ARP
 MAC
 SSH
 HTTP(S)
-wichtig ip adressen
-link local
-wichtige Ports: 25 SMTP
+
 wichtige IPs, apipa, link local, loop back, localhost, private adressen, A, B, C
-Umrechnungen: Hex in Dez in Binär
-primär, sekundär, tertiär verkablung
-Gebäude Verkabelung
+wichtige Ports: 25 SMTP
+
 EMV elektromagnetische verträglichkeit, störverträglichkeit,
 NAS, SAN
-RAID 1-6, BOD
+
 DIN, ISO, EN, IEC
 PDCA Zyklus
-DIN 9000, 9001, 9004
-VLAN, Nutzen, dynmaisch, Statisch
 WPA PSK, WPA Enterpsire RADIUS
 NAT
 RAS
 Industrie 4.0
 Mibibyte, Meabyte umrechnung
-
+SMART  
+Lastenheft

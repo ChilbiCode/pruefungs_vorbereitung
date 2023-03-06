@@ -8,6 +8,9 @@ DNS | <details>  <summary> </summary> Domain Name System</details>   | <details>
 DHCP | <details>  <summary> </summary>   Dynamic Host Configuration Protocol</details>   | <details>  <summary> </summary>DHCP Server vergibt IP Adressen, sowie Informationen über Netzmaske, Gateway und Domainserver </details> | <details>  <summary> </summary> ![DHCP](./images/DHCP.jpeg)</details>
 
 
+IEEE 802.11 bezeichnet die Normen des WLAN, der Marketingbegriff lautet Wi-Fi.  
+SSID - Service Set Identifier - WLan Name
+
 [zum Anfang](#abkürzungen)
 
 ---

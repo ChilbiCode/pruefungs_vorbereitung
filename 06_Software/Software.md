@@ -141,6 +141,9 @@ Zählschleife |<details><summary></summary> ![Zählschleife](./images/Struktogra
 
 ## 7. Datenbanken
 
+Primär Schlüssel werden <u>unterstrichen</u>.  
+Es gibt Join Tabellen mit denen man Tabellen miteinander Verknüpft.
+
 ||Relationale Datenbank | objektorientierte Datenbank
 -|-|-
 Definition| - Daten werden in Tabellen organisiert<br> - Beziehungen zwischen Tabellen durch Schlüssel definiert <br> - Standard: SQL-Schnittstelle (Structured Query Language) | - basiert auf Konzepten der objektorientierten Programmierung<br> - Objekte werden in Klassen organisiert und können Eigenschaften, Methoden und Beziehungen zu anderen Objekten haben  <br> - Speicherung von Objekten in ihrer natürlichen Form <br> Aufrechterhaltuing komplexer Beziehungen zwischen Objekten <br> - Abfrage- und Manipulationssprachen von objektorientierten Datenbanken sind objektorientiert und können objektbezogene Konzepte wie Vererbung, Polymorphismus und Kapselung nutzen
@@ -156,4 +159,24 @@ Data Manipulation Language (DML) | Daten in Tabellen bearbeiten| SELECT,<br> INS
 Data Control Language (DCL) | Zugriffsrechte auf Datenbankobjekte verwalten | GRANT, <br> REVOKE, <br>
 Transaction Control Language (TCL) |Transaktionen in einer Datenbank verwalten | COMMIT,<br> ROLLBACK,<br> SAVEPOINT<br>
 
+### Normalisierung
+
+#### 1. Normalform
+
+Jedes Datenfeld enthält nur einen Eintrag
+
+#### 2. Normalform 
+
+Jedes Datenfeld enthält nur einen Eintrag und keine Redundanzen
+
+#### 3. Normalform 
+
+Jedes Datenfeld enthält nur einen Eintrag, keine Redundanzen und ?
+
+
 ## 8. ER - Diagramm (Entity Relationship)
+
+<details><summary>Entity Relationship</summary>
+
+![Entity Relationship](./images/ER/1280px-Er-diagramm.jpg)
+</details>
